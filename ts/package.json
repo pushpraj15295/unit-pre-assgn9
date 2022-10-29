@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "^4.8.3"
+  },
+  "name": "ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"tsc a.ts --watch"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
